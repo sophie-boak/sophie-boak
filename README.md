@@ -4,6 +4,13 @@ I am a recent graduate with a Bachelor of Arts (Japanese) and a Bachelor of Engi
 
 
 ## About Me ![flower](assets/flower.gif)
+- 🌏 Passionate about languages and exploring different cultures, especially Japanese
+- 🌿 Enjoy reading, exploring the outdoors and running  
+- 🍬 Big sweet tooth — desserts are my guilty pleasure!
+
+## Skills ![flower](assets/flower.gif)
+
+## Projects ![flower](assets/flower.gif)
 
 ## Connect With Me <img src="assets/star.gif" alt="star" width="30"/>
 <p align="left">
