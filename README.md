@@ -7,7 +7,7 @@ I am a recent graduate with a Bachelor of Arts (Japanese) and a Bachelor of Engi
 
 ## Connect With Me <img src="assets/star.gif" alt="star" width="30"/>
 <p align="left">
-  <a href="www.linkedin.com/in/sophie-boak-77700a1b8" target="_blank">
+  <a href="https://www.linkedin.com/in/sophie-boak-77700a1b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/sophie-boak" target="_blank">
